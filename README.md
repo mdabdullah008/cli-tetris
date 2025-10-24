@@ -1,6 +1,8 @@
 # cli-tetris
 A command-line based Tetris made with Python.
 
+![Screencast_20251024_221805-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/42b67598-cc03-4bb9-84f4-e9f7f63eb8e4)
+
 # Requirements:
 
 ### For Linux/MacOS:
